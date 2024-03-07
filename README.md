@@ -1,6 +1,6 @@
 ### Ahoj 👋
 
-- ❗ If you consider GitHub as a social network, please don't follow me, thank you.
+- ⚠️ If you consider GitHub as a social network, please don't follow me, thank you.
 
 - 🌱 I’m currently learning C, Gobject
 
