@@ -2,7 +2,11 @@
 
 - ⚠️ If you consider GitHub as a social network, please don't follow me, thank you.
 
-- 🌱 I’m currently learning C, Gobject
+- 🌱 I’m currently learning:
+  - C and Gobject
+  - C# and Avalonia UI
+  - C++, C# in RBFX Game engine
+  
 
 
 <!--
