@@ -3,8 +3,8 @@
 - ⚠️ If you consider GitHub as a social network, please don't follow me, thank you.
 
 - 🌱 I’m currently learning:
-  - C and Gobject
-  - C# and Avalonia UI
+  - C and Gobject ( suspended :) )
+  - C# and Avalonia UI, Blazor
   - C++, C# in RBFX Game engine
   
 
