@@ -6,6 +6,7 @@
   - C and Gobject ( suspended :) )
   - C# and Avalonia UI, Blazor
   - C++, C# in RBFX Game engine
+  - felt in love in Zig and C3
   
 
 
